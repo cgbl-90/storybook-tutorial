@@ -161,11 +161,11 @@ textarea {
   font-size: 16px;
   line-height: 24px;
   box-shadow: none;
-  color: #2cc5d2;
+  color: #6fd22c;
   margin-top: -1px;
   font-family: "percolate";
   font-style: normal;
-  font-weight: normal;
+  font-weight: bold;
   font-variant: normal;
   text-transform: none;
   line-height: 1;
@@ -180,7 +180,7 @@ textarea {
 
 .input-symbol.error [class^="icon-"],
 .input-symbol.error [class*=" icon-"] {
-  color: #ff4400;
+  color: #922b05;
 }
 
 .input-symbol [class^="icon-"],
@@ -189,7 +189,7 @@ textarea {
 }
 
 .input-symbol input {
-  padding-left: 3em;
+  padding-left: 2em;
 }
 
 .input-symbol input {
